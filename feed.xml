@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    itunes:image href="https://nilltronic.github.io/the1975/cover.jpg"
+    <itunes:image href="https://nilltronic.github.io/the1975/cover.jpg">
     <title>My Personal Podcast</title>
     <link>https://nilltronic.github.io/the1975/</link>
     <description>Private podcast feed hosted on GitHub Pages.</description>
@@ -10,7 +10,7 @@
     <item>
       <title>Episode 1</title>
       <enclosure url="https://nilltronic.github.io/the1975/mp3s/Foreword (Remastered).mp3"
-                 length="9,789,678"
+                 length="9789678"
                  type="audio/mpeg" />
       <guid>episode1</guid>
       <pubDate>Thu, 25 Sep 2025 12:00:00 GMT</pubDate>
