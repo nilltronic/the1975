@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>My Personal Podcast</title>
+    <link>https://nilltronic.github.io/the1975/</link>
+    <description>Private podcast feed hosted on GitHub Pages.</description>
+    <language>en-us</language>
+
+    <item>
+      <title>Episode 1</title>
+      <enclosure url="https://nilltronic.github.io/the1975/mp3s/.mp3"
+                 length="12345678"
+                 type="audio/mpeg" />
+      <guid>episode1</guid>
+      <pubDate>Thu, 25 Sep 2025 12:00:00 GMT</pubDate>
+      <description>This is the first episode.</description>
+    </item>
+
+    <item>
+      <title>Episode 2</title>
+      <enclosure url="https://yourusername.github.io/my-podcast/episodes/episode2.mp3"
+                 length="23456789"
+                 type="audio/mpeg" />
+      <guid>episode2</guid>
+      <pubDate>Fri, 26 Sep 2025 12:00:00 GMT</pubDate>
+      <description>This is the second episode.</description>
+    </item>
+
+  </channel>
+</rss>
