@@ -3,18 +3,18 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>My Free Podcast</title>
-    <link>https://yourusername.github.io/my-podcast/</link>
+    <link>https://nilltronic.github.io/the1975/</link>
     <language>en-us</language>
-    <copyright>© 2025 Your Name</copyright>
-    <itunes:author>Your Name</itunes:author>
+    <copyright>© 2025 Ian Davison</copyright>
+    <itunes:author>Ian Davison</itunes:author>
     <description>This is my free podcast hosted on GitHub Pages.</description>
 
     <item>
       <title>Episode 1 - Introduction</title>
-      <enclosure url="https://yourusername.github.io/my-podcast/episodes/episode1.mp3"
+      <enclosure url="https://nilltronic.github.io/the1975/mp3s/Foreword (Remastered).mp3"
                  length="9,789,678"
                  type="audio/mpeg" />
-      <guid>https://yourusername.github.io/my-podcast/episodes/episode1.mp3</guid>
+      <guid>https://nilltronic.github.io/the1975/mp3s/Foreword (Remastered).mp3</guid>
       <pubDate>Thu, 25 Sep 2025 12:00:00 GMT</pubDate>
       <description>Welcome to my first episode!</description>
     </item>
