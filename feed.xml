@@ -12,7 +12,7 @@
     <item>
       <title>Episode 1 - Introduction</title>
       <enclosure url="https://yourusername.github.io/my-podcast/episodes/episode1.mp3"
-                 length="12345678"
+                 length="9,789,678"
                  type="audio/mpeg" />
       <guid>https://yourusername.github.io/my-podcast/episodes/episode1.mp3</guid>
       <pubDate>Thu, 25 Sep 2025 12:00:00 GMT</pubDate>
