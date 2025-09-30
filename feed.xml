@@ -6,8 +6,15 @@
     <description>Private podcast feed hosted on GitHub Pages.</description>
     <language>en-us</language>
 
+    <!-- Podcast Artwork -->
     <itunes:image href="https://nilltronic.github.io/the1975/cover.jpg" />
+    <image>
+      <url>https://nilltronic.github.io/the1975/cover.jpg</url>
+      <title>My Personal Podcast</title>
+      <link>https://nilltronic.github.io/the1975/</link>
+    </image>
 
+    <!-- Episode 1 -->
     <item>
       <title>Episode 1</title>
       <enclosure url="https://nilltronic.github.io/the1975/mp3s/Foreword (Remastered).mp3"
@@ -18,6 +25,7 @@
       <description>This is the first episode.</description>
     </item>
 
+    <!-- Episode 2 -->
     <item>
       <title>Episode 2</title>
       <enclosure url="https://yourusername.github.io/my-podcast/episodes/episode2.mp3"
