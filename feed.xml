@@ -8,8 +8,8 @@
 
     <item>
       <title>Episode 1</title>
-      <enclosure url="https://nilltronic.github.io/the1975/mp3s/.mp3"
-                 length="12345678"
+      <enclosure url="https://nilltronic.github.io/the1975/mp3s/Forward (remastered).mp3"
+                 length="9,789,678"
                  type="audio/mpeg" />
       <guid>episode1</guid>
       <pubDate>Thu, 25 Sep 2025 12:00:00 GMT</pubDate>
