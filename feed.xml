@@ -16,7 +16,7 @@
 
     <!-- Episode 1 -->
     <item>
-      <title>Foreword (Remastered)</title>
+      <title>Foreword</title>
       <enclosure url="https://nilltronic.github.io/the1975/mp3s/Foreword (Remastered).mp3"
                  length="9789678"
                  type="audio/mpeg" />
@@ -27,13 +27,24 @@
 
     <!-- Episode 2 -->
     <item>
-      <title>Episode 2</title>
-      <enclosure url="https://yourusername.github.io/my-podcast/episodes/episode2.mp3"
-                 length="23456789"
+      <title>Robbers</title>
+      <enclosure url="https://nilltronic.github.io/the1975/mp3s/Robbers.mp3"
+                 length="9458443"
                  type="audio/mpeg" />
-      <guid>episode2</guid>
+      <guid>https://nilltronic.github.io/the1975/mp3s/Robbers.mp3</guid>
       <pubDate>Fri, 26 Sep 2025 12:00:00 GMT</pubDate>
       <description>This is the second episode.</description>
+    </item>
+
+    <!-- Episode 3 -->
+    <item>
+      <title>Episode 3</title>
+      <enclosure url="https://yourusername.github.io/my-podcast/episodes/episode3.mp3"
+                 length="23456789"
+                 type="audio/mpeg" />
+      <guid>episode3</guid>
+      <pubDate>Fri, 26 Sep 2025 12:00:00 GMT</pubDate>
+      <description>This is the third episode.</description>
     </item>
 
   </channel>
