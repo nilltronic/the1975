@@ -20,7 +20,7 @@
       <enclosure url="https://nilltronic.github.io/the1975/mp3s/Foreword (Remastered).mp3"
                  length="9789678"
                  type="audio/mpeg" />
-      <guid>episode1</guid>
+      <guid>https://nilltronic.github.io/the1975/mp3s/Foreword (Remastered).mp3</guid>
       <pubDate>Thu, 25 Sep 2025 12:00:00 GMT</pubDate>
       <description>This is the first episode.</description>
     </item>
