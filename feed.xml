@@ -69,5 +69,38 @@
       <description>This is the fifth episode.</description>
     </item>
 
+    <!-- Episode 5 -->
+    <item>
+      <title>Episode 5</title>
+      <enclosure url="https://yourusername.github.io/my-podcast/episodes/episode5.mp3"
+                 length="7813766"
+                 type="audio/mpeg" />
+      <guid>episode4</guid>
+      <pubDate>Fri, 26 Sep 2025 12:00:00 GMT</pubDate>
+      <description>This is the fifth episode.</description>
+    </item>
+
+    <!-- Episode 5 -->
+    <item>
+      <title>Episode 5</title>
+      <enclosure url="https://yourusername.github.io/my-podcast/episodes/episode5.mp3"
+                 length="7813766"
+                 type="audio/mpeg" />
+      <guid>episode4</guid>
+      <pubDate>Fri, 26 Sep 2025 12:00:00 GMT</pubDate>
+      <description>This is the fifth episode.</description>
+    </item>
+
+    <!-- Episode 5 -->
+    <item>
+      <title>Episode 5</title>
+      <enclosure url="https://yourusername.github.io/my-podcast/episodes/episode5.mp3"
+                 length="7813766"
+                 type="audio/mpeg" />
+      <guid>episode4</guid>
+      <pubDate>Fri, 26 Sep 2025 12:00:00 GMT</pubDate>
+      <description>This is the fifth episode.</description>
+    </item>
+
   </channel>
 </rss>
