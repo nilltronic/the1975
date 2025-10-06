@@ -22,7 +22,7 @@
                  type="audio/mpeg" />
       <guid>https://nilltronic.github.io/the1975/mp3s/Foreword (Remastered).mp3</guid>
       <pubDate>Thu, 01 Sep 2025 12:00:00 GMT</pubDate>
-      <description>This is the first episode.</description>
+      <description>Foreword</description>
     </item>
 
     <!-- Episode 2 -->
@@ -33,7 +33,7 @@
                  type="audio/mpeg" />
       <guid>https://nilltronic.github.io/the1975/mp3s/Robbers.mp3</guid>
       <pubDate>Fri, 02 Sep 2025 12:00:00 GMT</pubDate>
-      <description>This is the second episode.</description>
+      <description>Robbers</description>
     </item>
 
     <!-- Episode 3 -->
@@ -44,18 +44,18 @@
                  type="audio/mpeg" />
       <guid>https://nilltronic.github.io/the1975/mp3s/Sex.mp3</guid>
       <pubDate>Fri, 03 Sep 2025 12:00:00 GMT</pubDate>
-      <description>This is the third episode.</description>
+      <description>Sex</description>
     </item>
 
     <!-- Episode 4 -->
     <item>
       <title>Episode 4</title>
-      <enclosure url="https://yourusername.github.io/my-podcast/episodes/episode4.mp3"
-                 length="7813766"
+      <enclosure url="https://nilltronic.github.io/the1975/mp3s/The Go!.mp3"
+                 length="8539978"
                  type="audio/mpeg" />
-      <guid>episode4</guid>
-      <pubDate>Fri, 26 Sep 2025 12:00:00 GMT</pubDate>
-      <description>This is the third episode.</description>
+      <guid>https://nilltronic.github.io/the1975/mp3s/The Go!.mp3</guid>
+      <pubDate>Fri, 04 Sep 2025 12:00:00 GMT</pubDate>
+      <description>The Go!</description>
     </item>
 
     <!-- Episode 5 -->
